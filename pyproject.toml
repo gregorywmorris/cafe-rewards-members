@@ -1,0 +1,19 @@
+[project]
+name = "cafe-rewards-members"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "gregorywmorris", email = "gwm1980@gmail.com"},
+]
+dependencies = [
+    "ipykernel>=6.29.5",
+    "pandas>=2.2.2",
+    "numpy>=2.1.0",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
