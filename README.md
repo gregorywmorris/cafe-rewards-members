@@ -4,7 +4,7 @@
 
 ## **North star metrics:** signup rate, signup count
 
-## **Dimensions:** campaign category, campaing type, platform, time
+## **Dimensions:** campaign category, campaign type, platform, time
 
 ## Connect csv to DB
 
