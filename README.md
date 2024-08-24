@@ -5,9 +5,3 @@
 ## **North star metrics:** signup rate, signup count
 
 ## **Dimensions:** campaign category, campaign type, platform, time
-
-## Connect csv to DB
-
-1. Mount data folder to MYSQL docker container
-1. Gain back access when done: `sudo chown -R your_wsl_username:your_wsl_username /home/blackitalian/ds_projects/cafe-rewards-members/data`
-1.
